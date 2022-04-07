@@ -1,0 +1,5 @@
+- 👋 Olá, me chamo Célio.
+- 👀 Meus maiores interesses são em Desenvolvimento Web - Frontend.
+- 🌱 Atualmente eu estou fazendo um curso da Digital Innovation One. https://www.dio.me
+- 💞️ Até então sou iniciante aqui no GitHub.
+- 📫 Para ter contato comigo basta me chamar no meu Instagram: https://www.instagram.com/celinn85/
