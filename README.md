@@ -3,7 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/celinn85)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celiogoncalvescruz/)
 
-![Celio GitHub stats](https://github-readme-stats.vercel.app/api?username=celiogoncalves40482&show_icons=true&theme=radical)
+![Celio GitHub stats](https://github-readme-stats.vercel.app/api?username=celiogoncalves40482&show_icons=true&theme=dracula)
+<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiogoncalves40482&layout=compact">
 
 ## Tecnologias que aprendi a usar
 <div style="display: inline_block">
@@ -13,8 +14,6 @@
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celiogoncalves40482&layout=compact)](https://github.com/celiogoncalves40482?tab=repositories)
 
 ## Tecnologias que estou aprendendo a usar
 <div style="display: inline_block">
