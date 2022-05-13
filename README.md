@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celiogoncalvescruz/)
 
 ![Celio GitHub stats](https://github-readme-stats.vercel.app/api?username=celiogoncalves40482&show_icons=true&theme=dracula)
-<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiogoncalves40482&layout=compact">
 
 ## Tecnologias que aprendi a usar
 <div style="display: inline_block">
